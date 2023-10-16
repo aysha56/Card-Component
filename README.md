@@ -22,7 +22,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Links
 
 - Solution URL: [My solution](https://github.com/aysha56/card-component)
-- Live Site URL: [My website](https://qrcode-69.netlify.app/)
+- Live Site URL: [My website](https://nft-card-component-aysha.netlify.app/)
 
 ## My process
 
